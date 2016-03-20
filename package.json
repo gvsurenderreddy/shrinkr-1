@@ -1,0 +1,29 @@
+{
+  "name": "shrinkr",
+  "version": "1.0.0",
+  "description": "A nodeJS, Express and MongoDB URL Shortening Service",
+  "main": "shrinkr.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grigorkh/shrinkr.git"
+  },
+  "keywords": [
+    "URL",
+    "Shortner",
+    "NodeJS",
+    "MongoDB",
+    "ExpressJS"
+  ],
+  "author": "Grigor Khachatryan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/grigorkh/shrinkr/issues"
+  },
+  "homepage": "https://github.com/grigorkh/shrinkr#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
