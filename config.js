@@ -1,7 +1,7 @@
 var config = {};
 
 config.db = {};
-config.webhost = 'http://localhost:3000/';
+config.webhost = 'http://shrinkr.ml:3000/';
 
 config.db.host = 'localhost';
 config.db.name = 'shrinkr';
